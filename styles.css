@@ -19,6 +19,14 @@
     text-align: center;
 }
 
+.original {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border-radius: 30%;
+}
+
 #dropdown {
     width: 6rem;
     margin: 20px;
